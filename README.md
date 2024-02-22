@@ -2,7 +2,11 @@ Hey, this is TMLC and these are our products we're working on
 
 ## TMLC AutoML
 
-> Upload a data, get a ML model
+You don't need to learn how to build artificial intelligence models anymore
+
+### Just upload your data and get an AI model
+
+[Click here to sign up on a priority waitlist and get an early access to the platform](https://mailchi.mp/1f414e9e32d1/t06qvxkc5z)
 
 Interfaces:
 - Web application: automl.tmlc.pl (under construction)
