@@ -1,3 +1,6 @@
+<p align="center"><img width="200" src="logo.jpg" alt="Tiny Machine Learning Company"></p>
+
+
 Hey, this is TMLC and these are our products we're working on
 
 ## TMLC AutoML
