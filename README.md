@@ -8,8 +8,10 @@ You don't need to learn how to build artificial intelligence models anymore
 
 [Click here to sign up on a priority waitlist and get an early access to the platform](https://mailchi.mp/1f414e9e32d1/t06qvxkc5z)
 
+It's under construction, but you can preview how it's going to work:
+
 Interfaces:
-- Web application: automl.tmlc.pl (under construction)
+- Web application: [automl.tmlc.pl](https://automl.tmlc.pl)
 - API:
 
 (Example)
