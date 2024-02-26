@@ -25,9 +25,21 @@ const model = automl.train(API_KEY, DATA_PATH);
 model.predict(NEW_DATA_PATH);
 ```
 
-## OpenAI Polling by TMLC
+## TMLC OpenAI Polling
 
 A library that [fills the gaps in OpenAI Threads API](https://platform.openai.com/docs/assistants/how-it-works/polling-for-updates)
+
+Install:
+```bash
+npm install @tmlc/openai-polling
+```
+
+Usage:
+```ts
+import { poll } from '@tmlc/openai-polling';
+
+await poll(openai, thread, run);
+```
 
 ## About us
 > A humble research and development in machine learning, space engineering and robotics conducted at home with coffee, lofi and intrinsic curiosity
