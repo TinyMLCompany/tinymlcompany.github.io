@@ -25,6 +25,10 @@ const model = automl.train(API_KEY, DATA_PATH);
 model.predict(NEW_DATA_PATH);
 ```
 
+## OpenAI Polling by TMLC
+
+A library that [fills the gaps in OpenAI Threads API](https://platform.openai.com/docs/assistants/how-it-works/polling-for-updates)
+
 ## About us
 > A humble research and development in machine learning, space engineering and robotics conducted at home with coffee, lofi and intrinsic curiosity
 
