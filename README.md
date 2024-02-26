@@ -29,6 +29,10 @@ model.predict(NEW_DATA_PATH);
 
 A library that [fills the gaps in OpenAI Threads API](https://platform.openai.com/docs/assistants/how-it-works/polling-for-updates)
 
+Repository: https://github.com/TinyMLCompany/openai-polling
+
+NPM Package: https://www.npmjs.com/package/@tmlc/openai-polling
+
 Install:
 ```bash
 npm install @tmlc/openai-polling
