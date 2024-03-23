@@ -3,7 +3,9 @@
 
 Hey, this is TMLC and these are our products we're working on
 
-## Łukasiewicz 0.1 - Turn Tabular Data into ML model
+## Łukasiewicz 0.1
+
+### Turn Tabular Data into ML model
 
 You don't need to learn how to build artificial intelligence models anymore
 
@@ -35,6 +37,8 @@ await poll(openai, thread, run);
 > A humble research and development in machine learning conducted at home with coffee, lofi and intrinsic curiosity
 
 Company blog: [https://tmlc.substack.com/](https://tmlc.substack.com/) (it's still quite empty, but feel free to subscribe to not miss the new posts)
+
+X/Twitter: [TinyMLCompany](https://x.com/tinymlcompany)
 
 Contact: [jedrzej@tmlc.pl](mailto:jedrzej@tmlc.pl)
 
