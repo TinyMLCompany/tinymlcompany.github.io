@@ -3,27 +3,13 @@
 
 Hey, this is TMLC and these are our products we're working on
 
-## TMLC AutoML
+## Łukasiewicz 0.1 - Turn Tabular Data into ML model
 
 You don't need to learn how to build artificial intelligence models anymore
 
 ### Just upload your data and get an AI model
 
-[Click here to sign up on a priority waitlist and get an early access to the platform](https://mailchi.mp/1f414e9e32d1/t06qvxkc5z)
-
-It's under construction, but you can preview how it's going to work:
-
-Interfaces:
-- Web application: [automl.tmlc.pl](https://automl.tmlc.pl)
-- API:
-
-(Example)
-```ts
-import automl from "@tmlc/automl";
-
-const model = automl.train(API_KEY, DATA_PATH);
-model.predict(NEW_DATA_PATH);
-```
+[lukasiewicz.tmlc.pl](https://lukasiewicz.tmlc.pl)
 
 ## TMLC OpenAI Polling
 
@@ -46,8 +32,10 @@ await poll(openai, thread, run);
 ```
 
 ## About us
-> A humble research and development in machine learning, space engineering and robotics conducted at home with coffee, lofi and intrinsic curiosity
+> A humble research and development in machine learning conducted at home with coffee, lofi and intrinsic curiosity
 
 Company blog: [https://tmlc.substack.com/](https://tmlc.substack.com/) (it's still quite empty, but feel free to subscribe to not miss the new posts)
+
+Contact: [jedrzej@tmlc.pl](jedrzej@tmlc.pl)
 
 TMLC Poland 2024
