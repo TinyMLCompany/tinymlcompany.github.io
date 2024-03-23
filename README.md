@@ -36,6 +36,6 @@ await poll(openai, thread, run);
 
 Company blog: [https://tmlc.substack.com/](https://tmlc.substack.com/) (it's still quite empty, but feel free to subscribe to not miss the new posts)
 
-Contact: [jedrzej@tmlc.pl](jedrzej@tmlc.pl)
+Contact: [jedrzej@tmlc.pl](mailto:jedrzej@tmlc.pl)
 
 TMLC Poland 2024
